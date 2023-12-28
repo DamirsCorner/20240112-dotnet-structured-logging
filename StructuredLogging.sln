@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredLogging", "StructuredLogging\StructuredLogging.csproj", "{F7360D2F-B1AC-4830-9648-B753344DC0D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7360D2F-B1AC-4830-9648-B753344DC0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7360D2F-B1AC-4830-9648-B753344DC0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7360D2F-B1AC-4830-9648-B753344DC0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7360D2F-B1AC-4830-9648-B753344DC0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {218DC2F9-CEC6-4034-A1DA-F68000FEC9D9}
+	EndGlobalSection
+EndGlobal
